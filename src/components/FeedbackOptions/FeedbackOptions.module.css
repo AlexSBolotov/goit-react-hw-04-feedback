@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+}
+.button {
+  width: 60px;
+  height: 30px;
+  border-radius: 6px;
+}
+.button:hover {
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+}
+.button:active {
+  scale: 0.95;
+}

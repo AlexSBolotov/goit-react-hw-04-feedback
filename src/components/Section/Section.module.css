@@ -1,0 +1,11 @@
+.section {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid grey;
+}
+.title {
+  margin-bottom: 20px;
+}
